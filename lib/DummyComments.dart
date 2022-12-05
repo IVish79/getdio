@@ -1,6 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:project_dio_1/main.dart';
+import 'package:getdio/main.dart';
+
 
 class DummyComments extends StatefulWidget {
   const DummyComments({Key? key}) : super(key: key);

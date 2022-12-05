@@ -1,6 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:project_dio_1/main.dart';
+import 'package:getdio/main.dart';
+
 
 class DummyPosts extends StatefulWidget {
   const DummyPosts({Key? key}) : super(key: key);

@@ -1,6 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:project_dio_1/main.dart';
+import 'package:getdio/main.dart';
+
 
 class Dummy_Products1 extends StatefulWidget {
   const Dummy_Products1({Key? key}) : super(key: key);
